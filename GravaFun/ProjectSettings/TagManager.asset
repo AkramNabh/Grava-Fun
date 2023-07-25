@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Grabable
+  - Messages
+  - Container
+  - Doors
+  - Movables
+  - Joints
+  - Buttons
+  - Walls
+  - Destroyable
+  - HiddenPath
+  - climbable
+  - Bubble
+  - Spikes
+  - Mouse
+  - planet
+  - rocket
+  - Force-Affectors
+  - Alien
+  - Colliders-Penetration
+  - Bullet
+  - Space Gun
+  - Bullet-Dir
+  - red-container
+  - green-container
+  - red-box
+  - green-box
+  - TransitionScene
+  - white-Bullet
+  - redKey
+  - blackRocket
+  - Panel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - BackGround stuff
+  - Water
+  - UI
+  - Ground
+  - Climbable
+  - Player
+  - Camera Collider
+  - Grabable
+  - Doors
+  - Fallers
+  - Containers
+  - Buttons
+  - Walls
+  - Breakables
+  - hiddenRooms
+  - Extras
+  - Bubble
+  - Spikes
+  - mouse
+  - DeadZone
+  - planet
+  - Force-Affectors
+  - Alien
+  - Colliders-Penetration
+  - Space Gun
+  - white-bullet
+  - player-stoppers
+  - purple-bullet
+  - Space-Boundries
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Camera Collider
+    uniqueID: 3500982875
+    locked: 0
+  - name: BackGround 1
+    uniqueID: 3497306027
+    locked: 0
+  - name: BackGround 2
+    uniqueID: 4224885243
+    locked: 0
+  - name: Tiles
+    uniqueID: 2513664649
+    locked: 0
+  - name: Messages
+    uniqueID: 2679252989
+    locked: 0
+  - name: Climbable
+    uniqueID: 3799319893
+    locked: 0
+  - name: Player
+    uniqueID: 1329749989
+    locked: 0
+  - name: For Extras
+    uniqueID: 2676083229
+    locked: 0
